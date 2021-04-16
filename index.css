@@ -1,0 +1,22 @@
+input[type=text], input[type=number]{
+    width:100%;
+    font-size:25px;
+}
+input[type=checkbox],p {
+    position: absolute;
+    opacity: 50;
+    cursor: pointer;
+    height: 30px;
+    width: 30px; 
+    margin-right:20px;
+    margin-top:5px;
+}
+
+input[type=button]{
+    background-color:lightcoral;
+    color:white !important;
+    border:none;
+}
+body{
+    color:lightcoral !important;
+}
